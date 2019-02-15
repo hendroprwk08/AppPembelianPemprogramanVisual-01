@@ -1,1 +1,10 @@
 D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\bin\Debug\WinAppPembelian.exe.config
+D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\bin\Debug\WinAppPembelian.exe
+D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\bin\Debug\WinAppPembelian.pdb
+D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\bin\Debug\WinAppPembelian.xml
+D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\obj\Debug\WinAppPembelian.Form1.resources
+D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\obj\Debug\WinAppPembelian.Resources.resources
+D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\obj\Debug\WinAppPembelian.vbproj.GenerateResource.Cache
+D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\obj\Debug\WinAppPembelian.exe
+D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\obj\Debug\WinAppPembelian.xml
+D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\obj\Debug\WinAppPembelian.pdb
