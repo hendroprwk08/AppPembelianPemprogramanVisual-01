@@ -19,3 +19,5 @@ harga_pokok money,
 keterangan varchar(50)
 )
 
+
+select * from jenis
