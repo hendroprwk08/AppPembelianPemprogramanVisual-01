@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class FJenis
+Partial Class FBahan
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -23,8 +23,8 @@ Partial Class FJenis
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
-        Me.tb_jenis = New System.Windows.Forms.TextBox()
-        Me.tb_id_jenis = New System.Windows.Forms.TextBox()
+        Me.tb_bahan = New System.Windows.Forms.TextBox()
+        Me.tb_id_bahan = New System.Windows.Forms.TextBox()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
@@ -40,48 +40,48 @@ Partial Class FJenis
         'DataGridView1
         '
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(13, 100)
+        Me.DataGridView1.Location = New System.Drawing.Point(16, 106)
         Me.DataGridView1.Name = "DataGridView1"
         Me.DataGridView1.Size = New System.Drawing.Size(339, 150)
-        Me.DataGridView1.TabIndex = 10
+        Me.DataGridView1.TabIndex = 16
         Me.DataGridView1.UseWaitCursor = True
         '
-        'tb_jenis
+        'tb_bahan
         '
-        Me.tb_jenis.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.tb_jenis.Location = New System.Drawing.Point(64, 66)
-        Me.tb_jenis.Name = "tb_jenis"
-        Me.tb_jenis.Size = New System.Drawing.Size(288, 20)
-        Me.tb_jenis.TabIndex = 9
-        Me.tb_jenis.UseWaitCursor = True
+        Me.tb_bahan.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.tb_bahan.Location = New System.Drawing.Point(75, 72)
+        Me.tb_bahan.Name = "tb_bahan"
+        Me.tb_bahan.Size = New System.Drawing.Size(280, 20)
+        Me.tb_bahan.TabIndex = 15
+        Me.tb_bahan.UseWaitCursor = True
         '
-        'tb_id_jenis
+        'tb_id_bahan
         '
-        Me.tb_id_jenis.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.tb_id_jenis.Location = New System.Drawing.Point(64, 40)
-        Me.tb_id_jenis.Name = "tb_id_jenis"
-        Me.tb_id_jenis.Size = New System.Drawing.Size(100, 20)
-        Me.tb_id_jenis.TabIndex = 8
-        Me.tb_id_jenis.UseWaitCursor = True
+        Me.tb_id_bahan.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.tb_id_bahan.Location = New System.Drawing.Point(75, 46)
+        Me.tb_id_bahan.Name = "tb_id_bahan"
+        Me.tb_id_bahan.Size = New System.Drawing.Size(92, 20)
+        Me.tb_id_bahan.TabIndex = 14
+        Me.tb_id_bahan.UseWaitCursor = True
         '
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(10, 69)
+        Me.Label2.Location = New System.Drawing.Point(13, 75)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(31, 13)
-        Me.Label2.TabIndex = 7
-        Me.Label2.Text = "Jenis"
+        Me.Label2.Size = New System.Drawing.Size(38, 13)
+        Me.Label2.TabIndex = 13
+        Me.Label2.Text = "Bahan"
         Me.Label2.UseWaitCursor = True
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(9, 43)
+        Me.Label1.Location = New System.Drawing.Point(12, 49)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(45, 13)
-        Me.Label1.TabIndex = 6
-        Me.Label1.Text = "ID Jenis"
+        Me.Label1.Size = New System.Drawing.Size(52, 13)
+        Me.Label1.TabIndex = 12
+        Me.Label1.Text = "ID Bahan"
         Me.Label1.UseWaitCursor = True
         '
         'MenuStrip1
@@ -89,8 +89,8 @@ Partial Class FJenis
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TambahToolStripMenuItem, Me.SimpanToolStripMenuItem, Me.HapusToolStripMenuItem, Me.ToolStripTextBox1, Me.CariToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(365, 27)
-        Me.MenuStrip1.TabIndex = 11
+        Me.MenuStrip1.Size = New System.Drawing.Size(372, 27)
+        Me.MenuStrip1.TabIndex = 17
         Me.MenuStrip1.Text = "MenuStrip1"
         Me.MenuStrip1.UseWaitCursor = True
         '
@@ -124,21 +124,19 @@ Partial Class FJenis
         Me.CariToolStripMenuItem.Size = New System.Drawing.Size(40, 23)
         Me.CariToolStripMenuItem.Text = "Cari"
         '
-        'FJenis
+        'FBahan
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(365, 262)
+        Me.ClientSize = New System.Drawing.Size(372, 262)
         Me.Controls.Add(Me.DataGridView1)
-        Me.Controls.Add(Me.tb_jenis)
-        Me.Controls.Add(Me.tb_id_jenis)
+        Me.Controls.Add(Me.tb_bahan)
+        Me.Controls.Add(Me.tb_id_bahan)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.MenuStrip1)
-        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
-        Me.Name = "FJenis"
-        Me.Text = "FJenis"
-        Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
+        Me.Name = "FBahan"
+        Me.Text = "Form1"
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.MenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.PerformLayout()
@@ -147,8 +145,8 @@ Partial Class FJenis
 
     End Sub
     Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
-    Friend WithEvents tb_jenis As System.Windows.Forms.TextBox
-    Friend WithEvents tb_id_jenis As System.Windows.Forms.TextBox
+    Friend WithEvents tb_bahan As System.Windows.Forms.TextBox
+    Friend WithEvents tb_id_bahan As System.Windows.Forms.TextBox
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents MenuStrip1 As System.Windows.Forms.MenuStrip

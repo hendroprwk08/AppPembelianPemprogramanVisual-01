@@ -8,3 +8,6 @@ D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinA
 D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\obj\Debug\WinAppPembelian.xml
 D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\obj\Debug\WinAppPembelian.pdb
 D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\obj\Debug\WinAppPembelian.FJenis.resources
+D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\obj\Debug\WinAppPembelian.FBahan.resources
+D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\obj\Debug\WinAppPembelian.FBarang.resources
+D:\hendro\GitAppPembelian\AppPembelianPemprogramanVisual-01\WinAppPembelian\WinAppPembelian\obj\Debug\WinAppPembelian.FMenu.resources
